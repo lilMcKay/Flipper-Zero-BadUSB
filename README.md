@@ -1,6 +1,6 @@
 <div align=center>
 
-# 🐬 Flipper-Zero-BadUSB 🐬
+# 😈 BadUSB 😈
 
 <p align="center">
       <a href="https://github.com/sponsors/I-Am-Jakoby">
@@ -8,9 +8,11 @@
       </a>	
 </p>
 
-Subscribing to my YouTube would also be really appreciated. 
+Supporting my work is always appreciated!
 
 [<img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://jakoby.lol/yno)
+
+Subscribing to my YouTube would also be really appreciated. 
 
 <img src= https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/img/disclaimer.png width="600" alt="C#" />
 </div>                 
