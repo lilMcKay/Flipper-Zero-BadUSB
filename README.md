@@ -2,6 +2,13 @@
 
 # 😈 BadUSB 😈
 
+
+<p align="center">
+      <a href="https://github.com/sponsors/I-Am-Jakoby">
+        <img src=https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/img/hak5-banner.png width="600" alt="Python" />
+      </a>	
+</p>
+
 <p align="center">
       <a href="https://github.com/sponsors/I-Am-Jakoby">
         <img src=https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/Discord-Sponsor.png width="125" alt="Python" />
@@ -28,21 +35,10 @@ Subscribing to my YouTube would also be really appreciated.
 [Acknowledgments](#Acknowledgments)
 
 
-
-# Unleash the power of your Flipper 🤓💻
-
 ***  
 
 ## Description 
 
-
-🥇 I am in 1st place for most payloads submitted to hak5❗ 
-
-🔓  have taken my colllection of payloads and formatted them to work for the Flipper for all of you to use❗
-
-⚠️ Please ENJOY and use RESPONSIBLY❗ 
-
-![hak 5](https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/img/hak5-banner.png)
 
 ## The Payloads 
 
@@ -53,6 +49,15 @@ I purchased the domain `jakoby.lol` for the sole purpose of creating my own shor
 I did this with the intention of making room for discord webhooks and dropbox tokens to fit in my one liners.
 
 This in turn makes it so the user no longer has to host their own version of the script.
+
+| Categories   | Description  | 
+| :----------- | :----------- | 
+| [Execution](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB/tree/main/Payloads/Flip-ADV-Recon)               | A script used to do an advanced level of Recon on the targets computer.                           | 
+| [Exfiltration](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB/tree/main/Payloads/Flip-AcidBurn)             | A script I put together to be used on your friends as well.. or Foes. Prepare to be roasted       |
+| [General](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB/tree/main/Payloads/Flip-AcidBurn)                  | A script I put together to be used on your friends as well.. or Foes. Prepare to be roasted       |
+| [Phishing](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB/tree/main/Payloads/Flip-EvilGoose)                | A payload that hires a goose to hack your target in real time                                     |   
+| [Prank](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB/tree/main/Payloads/Flip-AcidBurn)                    | A script I put together to be used on your friends as well.. or Foes. Prepare to be roasted       |
+| [Recon](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB/tree/main/Payloads/Flip-AcidBurn)                    | A script I put together to be used on your friends as well.. or Foes. Prepare to be roasted       |
 
 
 | Payloads                                                                                                        | Description                                                                                       | Plug'n'Play | Author      |
